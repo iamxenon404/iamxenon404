@@ -71,11 +71,12 @@ Here are some ideas to get you started:
 
 ## 📊 Github Metrics
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamxenon404&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=iamxenon404&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamxenon404&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" alt="Footer Banner" />
 </p>
