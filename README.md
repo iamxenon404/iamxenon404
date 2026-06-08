@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Xenon&fontSize=80&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff66&height=250&section=header&text=Xenon&fontSize=80&animation=fadeIn" alt="Header Banner" />
 </p>
 
 <h1 align="center">Full-Stack & Mobile Engineer</h1>
@@ -15,15 +15,15 @@
 
 ---
 
-## 🛠️ Production Pipeline
+## 💻 System Pipeline
 
-### 🚀 Active Development
+### 🚀 Active Deployments
 * **Commission-Free Restaurant App** 🍔
   * *Status:* Building core infrastructure & real-time ordering pipeline. 
   * *Goal:* Custom deployment for local businesses with an architectural roadmap toward a multi-tenant SaaS.
   * *Stack:* `Next.js` `WebSockets` `TailwindCSS`
 
-### 🧪 Completed & Maintained
+### 🧪 Shipped & Maintained
 * **[XenLog404](https://github.com/iamxenon404/Xenolog404)** 🌐 `Open Source`
   * Real-time webhook inspector and debugging tool built for developers.
   * *Stack:* `Next.js` `TailwindCSS` `Express.js` `Node.js`
@@ -33,9 +33,9 @@
 
 ---
 
-## 🧰 Technical Arsenal
+## 🧰 Core Mainframe
 
-### Frontend & UI
+### 🌐 Frontend Modules
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
-### Backend & Databases
+### ⚙️ Backend & Database Layers
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Mongo" />
 </p>
 
-### Mobile & Game Development
+### 🎮 Mobile & Environment Engine
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
@@ -64,7 +64,7 @@
 
 ---
 
-## 📊 Github Metrics
+## 📊 Terminal Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=iamxenon404&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
@@ -72,5 +72,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff66&height=100&section=footer" alt="Footer Banner" />
 </p>
