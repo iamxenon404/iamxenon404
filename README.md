@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=YOUR%20NAME&fontSize=80&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Xenon&fontSize=80&animation=fadeIn" alt="Header Banner" />
 </p>
+
 
 <h1 align="center">Full-Stack & Mobile Engineer</h1>
 <p align="center">
