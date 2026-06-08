@@ -24,10 +24,12 @@
   * *Stack:* `Next.js` `WebSockets` `TailwindCSS`
 
 ### 🧪 Completed & Maintained
-* **[XenLog404](https://xenlog404.vercel.app)** 🌐
+* **[XenLog404](https://github.com/iamxenon404/Xenolog404)** 🌐 `Open Source`
   * Real-time webhook inspector and debugging tool built for developers.
+  * *Stack:* `Next.js` `TailwindCSS` `Express.js` `Node.js`
 * **[XenoNotes](https://www.xenonotes.com)** 📝
   * B2B AI transcription layer designed to automate workflows for digital agencies.
+  * *Stack:* `Next.js` `TypeScript` `AI APIs` `TailwindCSS`
 
 ---
 
